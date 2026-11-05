@@ -676,6 +676,11 @@ nav .fa-solid{
     font-size: 0.9rem;
     color: #333;
   }
+.home-photo {
+  width: min(70vw, 280px);
+  max-width: 100%;
+  height: auto;
+}
 
 
 
